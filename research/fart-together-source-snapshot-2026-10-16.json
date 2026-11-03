@@ -1,0 +1,309 @@
+{
+  "research_date": "2026-10-16",
+  "retrieved_at_utc": "2026-10-16T15:36:56.276230+00:00",
+  "note": "Public Steam endpoint snapshot. Values may differ from cached store pages. No private account data accessed. Review text and user identifiers omitted.",
+  "full_game": {
+    "url": "https://store.steampowered.com/api/appdetails?appids=5117550&cc=in&l=english",
+    "data": {
+      "name": "Fart Together",
+      "type": "game",
+      "is_free": false,
+      "release_date": {
+        "coming_soon": true,
+        "date": "Coming soon"
+      },
+      "price_overview": null,
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "controller_support": "full",
+      "categories": [
+        {
+          "id": 1,
+          "description": "Multi-player"
+        },
+        {
+          "id": 49,
+          "description": "PvP"
+        },
+        {
+          "id": 36,
+          "description": "Online PvP"
+        },
+        {
+          "id": 37,
+          "description": "Shared/Split Screen PvP"
+        },
+        {
+          "id": 9,
+          "description": "Co-op"
+        },
+        {
+          "id": 38,
+          "description": "Online Co-op"
+        },
+        {
+          "id": 39,
+          "description": "Shared/Split Screen Co-op"
+        },
+        {
+          "id": 24,
+          "description": "Shared/Split Screen"
+        },
+        {
+          "id": 22,
+          "description": "Steam Achievements"
+        },
+        {
+          "id": 28,
+          "description": "Full controller support"
+        },
+        {
+          "id": 67,
+          "description": "Camera Comfort"
+        },
+        {
+          "id": 68,
+          "description": "Custom Volume Controls"
+        },
+        {
+          "id": 75,
+          "description": "Keyboard Only Option"
+        },
+        {
+          "id": 80,
+          "description": "#category_playable_at_your_own_pace"
+        },
+        {
+          "id": 74,
+          "description": "Playable without Timed Input"
+        },
+        {
+          "id": 59,
+          "description": "Steam Input API Support"
+        },
+        {
+          "id": 69,
+          "description": "Stereo Sound"
+        },
+        {
+          "id": 70,
+          "description": "Surround Sound"
+        },
+        {
+          "id": 23,
+          "description": "Steam Cloud"
+        },
+        {
+          "id": 25,
+          "description": "Steam Leaderboards"
+        },
+        {
+          "id": 44,
+          "description": "Remote Play Together"
+        },
+        {
+          "id": 62,
+          "description": "Family Sharing"
+        }
+      ],
+      "supported_languages": "English, French, Italian, German, Spanish - Spain, Simplified Chinese, Portuguese - Brazil, Indonesian, Japanese, Korean, Polish, Russian, Turkish, Arabic, Dutch, Vietnamese, Persian",
+      "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows 10 64-bit<br></li><li><strong>Processor:</strong> Intel Core i5-8400 or AMD Ryzen 3 1200<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GeForce GTX 1050 Ti or AMD Radeon RX 560<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 4 GB available space<br></li><li><strong>Sound Card:</strong> DirectX compatible<br></li><li><strong>Additional Notes:</strong> A stable internet connection is required for online co-op.</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows 10/11 64-bit<br></li><li><strong>Processor:</strong> Intel Core i5-10400 or AMD Ryzen 5 3600<br></li><li><strong>Memory:</strong> 16 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GeForce GTX 1660 or AMD Radeon RX 590<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 4 GB available space<br></li><li><strong>Sound Card:</strong> DirectX compatible<br></li><li><strong>Additional Notes:</strong> A stable internet connection is required for online co-op.</li></ul>"
+      }
+    }
+  },
+  "demo": {
+    "url": "https://store.steampowered.com/api/appdetails?appids=5208630&cc=in&l=english",
+    "data": {
+      "name": "Fart Together Demo",
+      "type": "demo",
+      "is_free": true,
+      "release_date": {
+        "coming_soon": false,
+        "date": "8 Oct, 2026"
+      },
+      "price_overview": null,
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "controller_support": null,
+      "categories": [
+        {
+          "id": 1,
+          "description": "Multi-player"
+        },
+        {
+          "id": 9,
+          "description": "Co-op"
+        },
+        {
+          "id": 38,
+          "description": "Online Co-op"
+        },
+        {
+          "id": 10,
+          "description": "Game demo"
+        },
+        {
+          "id": 67,
+          "description": "Camera Comfort"
+        },
+        {
+          "id": 68,
+          "description": "Custom Volume Controls"
+        },
+        {
+          "id": 75,
+          "description": "Keyboard Only Option"
+        },
+        {
+          "id": 80,
+          "description": "#category_playable_at_your_own_pace"
+        },
+        {
+          "id": 74,
+          "description": "Playable without Timed Input"
+        },
+        {
+          "id": 69,
+          "description": "Stereo Sound"
+        },
+        {
+          "id": 70,
+          "description": "Surround Sound"
+        },
+        {
+          "id": 23,
+          "description": "Steam Cloud"
+        }
+      ],
+      "supported_languages": "English, French, German, Spanish - Spain, Portuguese - Brazil, Polish, Russian, Turkish, Italian, Arabic, Simplified Chinese, Indonesian, Dutch, Japanese, Korean, Vietnamese, Persian",
+      "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 10 64-bit<br></li><li><strong>Processor:</strong> Intel Core i5-8400 or AMD Ryzen 3 1200<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GeForce GTX 1050 Ti or AMD Radeon RX 560<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 4 GB available space<br></li><li><strong>Sound Card:</strong> DirectX compatible<br></li><li><strong>Additional Notes:</strong> A stable internet connection is required for online co-op.</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 10/11 64-bit<br></li><li><strong>Processor:</strong> Intel Core i5-10400 or AMD Ryzen 5 3600<br></li><li><strong>Memory:</strong> 16 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GeForce GTX 1660 or AMD Radeon RX 590<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 4 GB available space<br></li><li><strong>Sound Card:</strong> DirectX compatible<br></li><li><strong>Additional Notes:</strong> A stable internet connection is required for online co-op.</li></ul>"
+      }
+    }
+  },
+  "review_summary": {
+    "url": "https://store.steampowered.com/appreviews/5208630?json=1&language=all&filter=all&num_per_page=100&purchase_type=all",
+    "data": {
+      "summary": {
+        "num_reviews": 100,
+        "review_score": 8,
+        "review_score_desc": "Very Positive",
+        "total_positive": 125,
+        "total_negative": 11,
+        "total_reviews": 136
+      },
+      "sample_returned": 100,
+      "sample_review_ids": [
+        "237679777",
+        "237510087",
+        "237826664",
+        "237644979",
+        "237812468",
+        "237660007",
+        "237853254",
+        "237852710",
+        "237849363",
+        "237842472",
+        "237831368",
+        "237828215",
+        "237828129",
+        "237818490",
+        "237807143",
+        "237806699",
+        "237804401",
+        "237795652",
+        "237794312",
+        "237789334",
+        "237781889",
+        "237779874",
+        "237768759",
+        "237737444",
+        "237731828",
+        "237728471",
+        "237725637",
+        "237724924",
+        "237721020",
+        "237693813",
+        "237659931",
+        "237657723",
+        "237652812",
+        "237609818",
+        "237494820",
+        "237827365",
+        "237570572",
+        "237621641",
+        "237811730",
+        "237734898",
+        "237807312",
+        "237776226",
+        "237534491",
+        "237662785",
+        "237510330",
+        "237804227",
+        "237796152",
+        "237794136",
+        "237519563",
+        "237685523",
+        "237824200",
+        "237658340",
+        "237813744",
+        "237639896",
+        "237585377",
+        "237647879",
+        "237812495",
+        "237778769",
+        "237679161",
+        "237734708",
+        "237585924",
+        "237664908",
+        "237852637",
+        "237721185",
+        "237812244",
+        "237506257",
+        "237589085",
+        "237585132",
+        "237808106",
+        "237540764",
+        "237509952",
+        "237485844",
+        "237818247",
+        "237788143",
+        "237519583",
+        "237831154",
+        "237725428",
+        "237735020",
+        "237732644",
+        "237642198",
+        "237818958",
+        "237810170",
+        "237800599",
+        "237404672",
+        "237668563",
+        "237819199",
+        "237807110",
+        "237752626",
+        "237755600",
+        "237810816",
+        "237801639",
+        "237406499",
+        "237831597",
+        "237827599",
+        "237742000",
+        "237826517",
+        "237793518",
+        "237749934",
+        "237850185",
+        "237683971"
+      ]
+    }
+  }
+}

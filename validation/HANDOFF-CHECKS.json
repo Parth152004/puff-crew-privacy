@@ -1,0 +1,45 @@
+{
+  "created": "2026-10-18",
+  "apk_sha256": "3bae7d8db2cb97fe3caa78ab41a3eab79e25eb0e1263b74cab26a59e299e1151",
+  "apk_crc_pass": true,
+  "apk_video_unchanged_from_delivered_checksums": true,
+  "unchanged_project_files_compared_to_source_zip": 70,
+  "python_helpers_syntax_pass": true,
+  "release_preflight_refuses_known_version_mismatch": true,
+  "private_key_credentials_and_old_aab_excluded": true,
+  "known_private_password_absent_from_payloads": true,
+  "store_png_dimensions": {
+    "release/store-assets/feature-1024x500.png": [
+      1024,
+      500
+    ],
+    "release/store-assets/icon-512.png": [
+      512,
+      512
+    ],
+    "release/store-assets/screenshots/android-menu.png": [
+      2424,
+      1080
+    ],
+    "release/store-assets/screenshots/android-pair-client.png": [
+      2424,
+      1080
+    ],
+    "release/store-assets/screenshots/android-outfit-gameplay.png": [
+      2424,
+      1080
+    ],
+    "release/store-assets/screenshots/android-pair-host.png": [
+      2424,
+      1080
+    ],
+    "release/store-assets/screenshots/android-gameplay.png": [
+      2424,
+      1080
+    ]
+  },
+  "new_release_export_performed": false,
+  "game_network_server_or_emulator_started_for_packaging": false,
+  "uploaded_submitted_or_published": false,
+  "note": "Existing Android QA precedes final whirlpool material-only adjustment. Windows/Linux/new release export not rerun. See known gaps."
+}

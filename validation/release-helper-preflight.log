@@ -1,0 +1,4 @@
+Expected refusal on the handoff draft identity mismatch:
+Version mismatch: align CrewRelease.VERSION, the Google Play preset and release/release-config.json before release.
+
+Other checks: Python syntax passed; isolated consistent fixture accepted; isolated versionCode mismatch rejected. No export/key creation/Play action executed.

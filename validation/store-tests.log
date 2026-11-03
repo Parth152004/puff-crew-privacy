@@ -1,0 +1,19 @@
+Godot Engine v4.7.2.stable.official.ed1daf0bf - https://godotengine.org
+
+PASS Pending payment grants no outfit and is not acknowledged
+PASS Completed purchase waits for acknowledgement
+PASS Repeated callbacks do not duplicate in-flight acknowledgement
+PASS Unrequested acknowledgement cannot grant access
+PASS Successful acknowledgement unlocks bundle
+PASS Cancellation preserves an existing purchase
+PASS Offline restore preserves cached access
+PASS Successful empty restore revokes refunded/missing access
+PASS Pending restore remains pending and locked
+PASS Wrong package cannot unlock this game
+PASS Other products cannot unlock the bundle
+PASS Suspended entitlement is not accepted
+PASS Acknowledged purchase restores after reinstall
+PASS Price and permanent offer come from store details
+PASS Canceled launch cannot unlock outfits
+PASS Restore queries the user's current store purchases
+STORE_TESTS 16/16 passed

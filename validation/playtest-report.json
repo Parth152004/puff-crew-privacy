@@ -1,0 +1,51 @@
+{
+  "version": "0.2.0",
+  "code": 2,
+  "package": "com.puffcrew.rapids",
+  "artifact": "Puff-Crew-0.2.0-Playtest.apk",
+  "apk_sha256": "3bae7d8db2cb97fe3caa78ab41a3eab79e25eb0e1263b74cab26a59e299e1151",
+  "apk_bytes": 80689472,
+  "billing_sdk_in_apk": false,
+  "billing_permission": false,
+  "all_outfits_available_in_playtest": true,
+  "publishing_paused_by_user": true,
+  "uploaded_or_published": false,
+  "physical_phones_tested": false,
+  "behavior_checks_passed": 25,
+  "complete_courses_passed": 3,
+  "android_solo": {
+    "distance": 15.3174896240234,
+    "draw_calls": 318.0,
+    "fps": 50.0,
+    "gas": 0.690000000000004,
+    "mode": "solo",
+    "pass": true,
+    "resolution": "(1616.0, 720.0)",
+    "ui_checks": "solo, view, pause, resume, retry, leave, cancel pending connection, graphics, privacy, credits, licenses, outfit preview/equip in solo"
+  },
+  "android_pair": {
+    "emulator-5554": {
+      "crew": 2,
+      "fps": 60.0,
+      "mode": "host",
+      "outfit_sync": true,
+      "pass": true,
+      "progress": 22.4736061096191,
+      "remote_input": true
+    },
+    "emulator-5556": {
+      "crew": 2,
+      "discovered": true,
+      "fps": 52.0,
+      "mode": "client",
+      "outfit_sync": true,
+      "packets": 119,
+      "pass": true,
+      "progress": 22.4716129302979,
+      "target": "10.0.2.16"
+    }
+  },
+  "android_verified_build_sha256": "5978e39297d7784ea16838a4efeb29fd60d2350894d0447377759433a026d663",
+  "final_visual_only_changes_after_android_qa": true,
+  "final_visual_change": "Whirlpool foam material two-sided/unshaded; verified in final rendered video"
+}

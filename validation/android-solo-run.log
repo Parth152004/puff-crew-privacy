@@ -1,0 +1,13 @@
+Performing Streamed Install
+Success
+
+{
+  "distance": 15.3174896240234,
+  "draw_calls": 318.0,
+  "fps": 50.0,
+  "gas": 0.690000000000004,
+  "mode": "solo",
+  "pass": true,
+  "resolution": "(1616.0, 720.0)",
+  "ui_checks": "solo, view, pause, resume, retry, leave, cancel pending connection, graphics, privacy, credits, licenses, outfit preview/equip in solo"
+}

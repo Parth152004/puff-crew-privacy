@@ -1,0 +1,8 @@
+--------- beginning of main
+10-18 17:42:03.395  4752  4778 I godot   : Godot Engine v4.7.2.stable.official.ed1daf0bf - https://godotengine.org
+10-18 17:42:03.434  4752  4778 E godot   : WARNING: Failed to load cached shader, recompiling.
+10-18 17:42:03.434  4752  4778 E godot   :    at: _load_from_cache (drivers/gles3/shader_gles3.cpp:615)
+10-18 17:42:04.855  4752  4778 I godot   : OpenGL API OpenGL ES 3.0 (4.1 Metal - 90.5) - Compatibility - Using Device: Google (Apple) - Android Emulator OpenGL ES Translator (Apple M5)
+10-18 17:42:04.887  4752  4778 I godot   : 
+10-18 17:42:05.032  4752  4778 I godot   : PUFF_READY version=0.2.0 debug=true
+10-18 17:42:24.169  4752  4778 I godot   : ANDROID_QA {"crew":2,"discovered":true,"fps":52.0,"mode":"client","outfit_sync":true,"packets":119,"pass":true,"progress":22.4716129302979,"target":"10.0.2.16"}

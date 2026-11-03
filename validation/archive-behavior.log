@@ -1,0 +1,28 @@
+Godot Engine v4.7.2.stable.official.ed1daf0bf - https://godotengine.org
+
+PASS Thrust accelerates raft forward
+PASS Thrust moves raft through course
+PASS Holding thrust consumes gas
+PASS Releasing thrust restores gas
+PASS Releasing retains momentum
+PASS Reverse thrust brakes momentum
+PASS Opposing crew thrust cancels translation
+PASS Checkpoint records progress
+PASS Leaving channel causes one splash
+PASS Splash restores last checkpoint
+PASS Respawn clears velocity
+PASS Bumper collision applies knockback
+PASS Collision cooldown prevents repeated impulse
+PASS Whirlpool eye causes a splash
+PASS A boosted raft can cross the gap
+PASS Entering gap without speed fails
+PASS Finish triggers results
+PASS A completed run persists a best time
+PASS Two fingers aim and thrust together
+PASS Releasing stick preserves second finger thrust
+PASS Releasing thrust pointer stops thrust
+PASS Focus reset clears touch ownership
+PASS Course 0 provides navigable widths
+PASS Course 1 provides navigable widths
+PASS Course 2 provides navigable widths
+SIMULATION_TESTS 25/25 passed

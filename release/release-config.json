@@ -1,0 +1,25 @@
+{
+  "app_name": "Puff Crew: Rapids",
+  "package": "com.puffcrew.rapids",
+  "publisher": "Ramo Labs",
+  "support_email": "jayvekaria282@gmail.com",
+  "account_type": "personal",
+  "account_created_after_2023_11_13": true,
+  "intended_audience": [
+    "13-15",
+    "16-17",
+    "18+"
+  ],
+  "price_model": "100% Free (no in-app purchases or ads)",
+  "version_name": "1.0.0",
+  "version_code": 4,
+  "product_id": null,
+  "suggested_india_price_inr": 0,
+  "privacy_policy_url": null,
+  "production_access_verified": false,
+  "physical_phone_testing_complete": true,
+  "play_billing_license_test_complete": true,
+  "status": "READY - 100% Free release configuration",
+  "current_playtest_version": "1.0.0",
+  "current_aab_in_handoff": false
+}

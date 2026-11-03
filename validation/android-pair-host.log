@@ -1,0 +1,29 @@
+--------- beginning of main
+10-18 17:34:44.062  4655  4696 I godot   : Godot Engine v4.7.2.stable.official.ed1daf0bf - https://godotengine.org
+10-18 17:34:44.131  4655  4696 E godot   : WARNING: Failed to load cached shader, recompiling.
+10-18 17:34:44.132  4655  4696 E godot   :    at: _load_from_cache (drivers/gles3/shader_gles3.cpp:615)
+10-18 17:34:45.403  4655  4696 I godot   : OpenGL API OpenGL ES 3.0 (4.1 Metal - 90.5) - Compatibility - Using Device: Google (Apple) - Android Emulator OpenGL ES Translator (Apple M5)
+10-18 17:34:45.447  4655  4696 I godot   : 
+10-18 17:34:45.578  4655  4696 I godot   : PUFF_READY version=1.0.0 debug=true
+10-18 17:35:01.134  4655  4696 I godot   : ANDROID_QA {"distance":15.481201171875,"draw_calls":308.0,"fps":60.0,"gas":0.685666666666671,"mode":"solo","pass":true,"resolution":"(1616.0, 720.0)","ui_checks":"solo, view, pause, resume, retry, leave, cancel pending connection, graphics, privacy, credits, licenses, outfit preview"}
+10-18 17:39:33.657  5035  5061 I godot   : Godot Engine v4.7.2.stable.official.ed1daf0bf - https://godotengine.org
+10-18 17:39:33.713  5035  5061 E godot   : WARNING: Failed to load cached shader, recompiling.
+10-18 17:39:33.713  5035  5061 E godot   :    at: _load_from_cache (drivers/gles3/shader_gles3.cpp:615)
+10-18 17:39:34.990  5035  5061 I godot   : OpenGL API OpenGL ES 3.0 (4.1 Metal - 90.5) - Compatibility - Using Device: Google (Apple) - Android Emulator OpenGL ES Translator (Apple M5)
+10-18 17:39:34.995  5035  5061 I godot   : 
+10-18 17:39:35.104  5035  5061 I godot   : PUFF_READY version=0.2.0 debug=true
+10-18 17:39:50.616  5035  5061 I godot   : ANDROID_QA {"distance":15.5792636871338,"draw_calls":309.0,"fps":50.0,"gas":0.692666666666671,"mode":"solo","pass":true,"resolution":"(1616.0, 720.0)","ui_checks":"solo, view, pause, resume, retry, leave, cancel pending connection, graphics, privacy, credits, licenses, outfit preview/equip in solo"}
+10-18 17:41:01.584  5285  5310 I godot   : Godot Engine v4.7.2.stable.official.ed1daf0bf - https://godotengine.org
+10-18 17:41:01.615  5285  5310 E godot   : WARNING: Failed to load cached shader, recompiling.
+10-18 17:41:01.615  5285  5310 E godot   :    at: _load_from_cache (drivers/gles3/shader_gles3.cpp:615)
+10-18 17:41:02.859  5285  5310 I godot   : OpenGL API OpenGL ES 3.0 (4.1 Metal - 90.5) - Compatibility - Using Device: Google (Apple) - Android Emulator OpenGL ES Translator (Apple M5)
+10-18 17:41:02.863  5285  5310 I godot   : 
+10-18 17:41:03.003  5285  5310 I godot   : PUFF_READY version=0.2.0 debug=true
+10-18 17:41:18.382  5285  5310 I godot   : ANDROID_QA {"distance":15.3174896240234,"draw_calls":318.0,"fps":50.0,"gas":0.690000000000004,"mode":"solo","pass":true,"resolution":"(1616.0, 720.0)","ui_checks":"solo, view, pause, resume, retry, leave, cancel pending connection, graphics, privacy, credits, licenses, outfit preview/equip in solo"}
+10-18 17:41:51.627  5551  5577 I godot   : Godot Engine v4.7.2.stable.official.ed1daf0bf - https://godotengine.org
+10-18 17:41:51.706  5551  5577 E godot   : WARNING: Failed to load cached shader, recompiling.
+10-18 17:41:51.706  5551  5577 E godot   :    at: _load_from_cache (drivers/gles3/shader_gles3.cpp:615)
+10-18 17:41:52.925  5551  5577 I godot   : OpenGL API OpenGL ES 3.0 (4.1 Metal - 90.5) - Compatibility - Using Device: Google (Apple) - Android Emulator OpenGL ES Translator (Apple M5)
+10-18 17:41:52.928  5551  5577 I godot   : 
+10-18 17:41:53.052  5551  5577 I godot   : PUFF_READY version=0.2.0 debug=true
+10-18 17:42:23.879  5551  5577 I godot   : ANDROID_QA {"crew":2,"fps":60.0,"mode":"host","outfit_sync":true,"pass":true,"progress":22.4736061096191,"remote_input":true}

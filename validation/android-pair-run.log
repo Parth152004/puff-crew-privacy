@@ -1,0 +1,28 @@
+emulator-5554 Performing Streamed Install
+Success
+
+emulator-5556 Performing Streamed Install
+Success
+
+{
+  "emulator-5554": {
+    "crew": 2,
+    "fps": 60.0,
+    "mode": "host",
+    "outfit_sync": true,
+    "pass": true,
+    "progress": 22.4736061096191,
+    "remote_input": true
+  },
+  "emulator-5556": {
+    "crew": 2,
+    "discovered": true,
+    "fps": 52.0,
+    "mode": "client",
+    "outfit_sync": true,
+    "packets": 119,
+    "pass": true,
+    "progress": 22.4716129302979,
+    "target": "10.0.2.16"
+  }
+}

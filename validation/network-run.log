@@ -1,0 +1,14 @@
+host Godot Engine v4.7.2.stable.official.ed1daf0bf - https://godotengine.org
+
+ERROR: Unable to send packet on channel 0, max channels: 0
+   at: send (modules/enet/enet_packet_peer.cpp:64)
+NETWORK_TEST host PASS max_crew=4 max_progress=22.5893440246582 packets=0 remote_input=true
+client-1 Godot Engine v4.7.2.stable.official.ed1daf0bf - https://godotengine.org
+
+NETWORK_TEST client PASS max_crew=4 max_progress=22.5783309936523 packets=140 remote_input=true
+client-2 Godot Engine v4.7.2.stable.official.ed1daf0bf - https://godotengine.org
+
+NETWORK_TEST client PASS max_crew=4 max_progress=22.5783309936523 packets=141 remote_input=true
+client-3 Godot Engine v4.7.2.stable.official.ed1daf0bf - https://godotengine.org
+
+NETWORK_TEST client PASS max_crew=4 max_progress=22.5783309936523 packets=140 remote_input=true
